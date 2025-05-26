@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @SmartArt09
+/src/backend/database.py      @SmartArt09
+/src/backend/routers/auth.py  @SmartArt09
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @SmartArt09
